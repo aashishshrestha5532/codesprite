@@ -1,24 +1,25 @@
 {
-  "name": "@elton/codesprite",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@aashishshrestha5532/codesprite",
+  "version": "1.0.2",
+  "description": "Reusable helpers for simple mathematical calculations",
   "main": "app.js",
-  "private":false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "@elton:registry": "http://localhost:3001/api/v4/projects/23460401/packages/npm/"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/Aashishshrestha5532/codesprite.git"
+    "url": "git+https://github.com/aashishshrestha5532/codesprite.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "node.js"
+  ],
+  "author": "elton aasis",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/Aashishshrestha5532/codesprite/issues"
+    "url": "https://github.com/aashishshrestha5532/codesprite/issues"
   },
-  "homepage": "https://gitlab.com/Aashishshrestha5532/codesprite#readme"
+  "homepage": "https://github.com/aashishshrestha5532/codesprite#readme"
 }
